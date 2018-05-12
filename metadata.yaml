@@ -1,0 +1,31 @@
+_repo: The-Missing-Link-in-Modern-Spiritualism_40485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Underhill, A. Leah (Ann Leah)
+    aliases:
+    - Fox, Leah
+    - Fox, Ann Leah
+    - Underhill, Ann Leah
+    birthdate: 1814
+    deathdate: 1890
+    gutenberg_agent_id: '40656'
+    url: http://www.gutenberg.org/2009/agents/40656
+description: ''
+gutenberg_issued: '2012-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Fox family'
+title: The Missing Link in Modern Spiritualism
+url: http://www.gutenberg.org/ebooks/40485
